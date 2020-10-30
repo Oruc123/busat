@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Restoranlar",
+    "path": "restoranlar"
+  },
+  {
+    "label": "Gəlinliklər",
+    "path": "gelinlikler"
+  },
+  {
+    "label": "Gözəllik salonları",
+    "path": "salonlar"
+  },
+  {
+    "label": "Kampaniyalar",
+    "path": "endirimler"
+  },
+  {
+    "label": "Avtomobillər",
+    "path": "avtomobiller"
+  }
+]
